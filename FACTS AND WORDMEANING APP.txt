@@ -1,0 +1,7 @@
+FACTS AND WORDMEANING APP
+
+In this app we will learn new word meaning and facts
+
+FACTS- this will tell new facts
+
+WORDMEANING- we can learn new meanings of words
